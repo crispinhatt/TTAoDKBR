@@ -4,13 +4,7 @@ Tradução não-oficial para o Português do Brasil do jogo standalone **Tiny Ti
 
 > Baseada na tradução PT-BR completa do BL2 GOTY (CentralDeTraducoes.net.br) e na tradução da DLC original (Tribo Gamer), expandida e adaptada para o standalone com scripts Python.
 
----
 
-## 📸 Screenshots
-
-*(adicionar screenshots in-game aqui)*
-
----
 
 ## 📦 O que está traduzido
 
